@@ -1,0 +1,304 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:2:1-61:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Kyla\.gradle\caches\transforms-3\ce3810c75c25af62618df9e3cfe877ad\transformed\material-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.zubairehman:AlarmManager:v1.2.0-alpha01] C:\Users\Kyla\.gradle\caches\transforms-3\a1d9859ff700c77a9fc82503bbb70c31\transformed\jetified-AlarmManager-v1.2.0-alpha01\AndroidManifest.xml:2:1-21:12
+MERGED from [com.applandeo:material-calendar-view:1.7.0] C:\Users\Kyla\.gradle\caches\transforms-3\9c5c633bfc42fbe9b798132865aabb25\transformed\jetified-material-calendar-view-1.7.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Kyla\.gradle\caches\transforms-3\7208d67472441715d1167eab9181d58e\transformed\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Kyla\.gradle\caches\transforms-3\13e16167675b0703369ad876dcfd0cfb\transformed\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [io.github.inflationx:calligraphy3:3.1.1] C:\Users\Kyla\.gradle\caches\transforms-3\c19d1a594d69b3ad9d1c627ad2724ff0\transformed\jetified-calligraphy3-3.1.1\AndroidManifest.xml:2:1-13:12
+MERGED from [io.github.inflationx:viewpump:2.0.3] C:\Users\Kyla\.gradle\caches\transforms-3\503101f86df4bf7ae0305dbd438337ca\transformed\jetified-viewpump-2.0.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Kyla\.gradle\caches\transforms-3\6435d5cdecbbbfdbd508d58dd4522a8e\transformed\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Kyla\.gradle\caches\transforms-3\44d66019629001601723e3e8e6792438\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\Kyla\.gradle\caches\transforms-3\abedd8388bdbd55803e370bace33339f\transformed\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Kyla\.gradle\caches\transforms-3\b204d6486c6c201251274434766486bd\transformed\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Kyla\.gradle\caches\transforms-3\5d6dbb7a2526cb46a310f1fa772a8328\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.palette:palette:1.0.0] C:\Users\Kyla\.gradle\caches\transforms-3\54968dbfda233a7bfa6bce95c03a8246\transformed\palette-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton:butterknife:10.2.1] C:\Users\Kyla\.gradle\caches\transforms-3\39737336bbec14f0128fb8c4a0a4f643\transformed\jetified-butterknife-10.2.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\Kyla\.gradle\caches\transforms-3\47a31a6953c4c69198e03b31b62e2496\transformed\room-runtime-2.2.5\AndroidManifest.xml:17:1-31:12
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\Kyla\.gradle\caches\transforms-3\76409a9e347be8ca5b74819dccb788ee\transformed\jetified-glide-4.8.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Kyla\.gradle\caches\transforms-3\90bd08f667a71835f44c311e9a58f71a\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Kyla\.gradle\caches\transforms-3\33d809cb016f59c870b9198a81faa47b\transformed\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Kyla\.gradle\caches\transforms-3\5eff1425e4617f572a315b3a04b185a4\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Kyla\.gradle\caches\transforms-3\f967ef6252e4ec79b8a489b7b97a4a74\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Kyla\.gradle\caches\transforms-3\bf2a6d46c92d2b1b015ce44f75d834ab\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Kyla\.gradle\caches\transforms-3\16d8bc9bca92d3e65507a5edaa5e582a\transformed\transition-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton:butterknife-runtime:10.2.1] C:\Users\Kyla\.gradle\caches\transforms-3\ec2bfd3a21ac896f40c4417a64b7b7bd\transformed\jetified-butterknife-runtime-10.2.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Kyla\.gradle\caches\transforms-3\064f6efcf72e45025c96c41bb0313fb3\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Kyla\.gradle\caches\transforms-3\f4e7914e58ba093567760f9d22f3626d\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Kyla\.gradle\caches\transforms-3\4daddb1da45a5384ed7a0d662e69c63c\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Kyla\.gradle\caches\transforms-3\c17573ade799759c56baf884a28f8de6\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Kyla\.gradle\caches\transforms-3\3fa6512a9d4dee4adc600ab35404b8df\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Kyla\.gradle\caches\transforms-3\bb581f0f45aa35f890c6008351162320\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Kyla\.gradle\caches\transforms-3\62c5e7261b28a421717026579decefb0\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Kyla\.gradle\caches\transforms-3\788b2866ce1062b2ae316790421045ad\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Kyla\.gradle\caches\transforms-3\dc51215a0ae0eec1cc8d2679f7af5fd0\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\Kyla\.gradle\caches\transforms-3\0d1be357180595c9fada004a40a95f33\transformed\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Kyla\.gradle\caches\transforms-3\2365384ad980976d11b4bd9d48d00571\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Kyla\.gradle\caches\transforms-3\1f624a3ec658e1a90eb17b72d8f4e5aa\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\Kyla\.gradle\caches\transforms-3\a48b27392aca29760d5e67754297b743\transformed\sqlite-framework-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\Kyla\.gradle\caches\transforms-3\de637aa518de7c841c858a3b6078b41c\transformed\sqlite-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Kyla\.gradle\caches\transforms-3\eb59ad3ff2cc3f8ea455ecf10b9a5b47\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Kyla\.gradle\caches\transforms-3\b31efb9b62a939b56fecae300029b614\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.1] C:\Users\Kyla\.gradle\caches\transforms-3\0a93582863937f3223533a577a0df624\transformed\core-runtime-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\Kyla\.gradle\caches\transforms-3\4d40688f713052da6bb7abb8463add40\transformed\jetified-gifdecoder-4.8.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Kyla\.gradle\caches\transforms-3\7a1ff5a23d45e8270cb10429ea4d29f7\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Kyla\.gradle\caches\transforms-3\fe726d578f90e61f945e51ad06a99ee0\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Kyla\.gradle\caches\transforms-3\dc95db927df936e003ea23f2b843af5c\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Kyla\.gradle\caches\transforms-3\4a128805ae54552b7183634231e39ff5\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Kyla\.gradle\caches\transforms-3\ae4109ec1e873f2074e4c3a60211a759\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Kyla\.gradle\caches\transforms-3\7807df45417ac8527680b4e4f7eddd80\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Kyla\.gradle\caches\transforms-3\b8168211f61aad3127929ec4ab285974\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Kyla\.gradle\caches\transforms-3\cfee952266597011e350226a145c4ff0\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:2:1-61:12
+	package
+		ADDED from C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:2:1-61:12
+		INJECTED from C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:2:1-61:12
+		INJECTED from C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:5:5-68
+	android:name
+		ADDED from C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:5:22-65
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:6:22-78
+application
+ADDED from C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:8:5-59:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Kyla\.gradle\caches\transforms-3\ce3810c75c25af62618df9e3cfe877ad\transformed\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Kyla\.gradle\caches\transforms-3\ce3810c75c25af62618df9e3cfe877ad\transformed\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.github.zubairehman:AlarmManager:v1.2.0-alpha01] C:\Users\Kyla\.gradle\caches\transforms-3\a1d9859ff700c77a9fc82503bbb70c31\transformed\jetified-AlarmManager-v1.2.0-alpha01\AndroidManifest.xml:11:5-19:19
+MERGED from [com.github.zubairehman:AlarmManager:v1.2.0-alpha01] C:\Users\Kyla\.gradle\caches\transforms-3\a1d9859ff700c77a9fc82503bbb70c31\transformed\jetified-AlarmManager-v1.2.0-alpha01\AndroidManifest.xml:11:5-19:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Kyla\.gradle\caches\transforms-3\13e16167675b0703369ad876dcfd0cfb\transformed\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Kyla\.gradle\caches\transforms-3\13e16167675b0703369ad876dcfd0cfb\transformed\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [io.github.inflationx:calligraphy3:3.1.1] C:\Users\Kyla\.gradle\caches\transforms-3\c19d1a594d69b3ad9d1c627ad2724ff0\transformed\jetified-calligraphy3-3.1.1\AndroidManifest.xml:11:5-20
+MERGED from [io.github.inflationx:calligraphy3:3.1.1] C:\Users\Kyla\.gradle\caches\transforms-3\c19d1a594d69b3ad9d1c627ad2724ff0\transformed\jetified-calligraphy3-3.1.1\AndroidManifest.xml:11:5-20
+MERGED from [io.github.inflationx:viewpump:2.0.3] C:\Users\Kyla\.gradle\caches\transforms-3\503101f86df4bf7ae0305dbd438337ca\transformed\jetified-viewpump-2.0.3\AndroidManifest.xml:9:5-20
+MERGED from [io.github.inflationx:viewpump:2.0.3] C:\Users\Kyla\.gradle\caches\transforms-3\503101f86df4bf7ae0305dbd438337ca\transformed\jetified-viewpump-2.0.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\Kyla\.gradle\caches\transforms-3\47a31a6953c4c69198e03b31b62e2496\transformed\room-runtime-2.2.5\AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\Kyla\.gradle\caches\transforms-3\47a31a6953c4c69198e03b31b62e2496\transformed\room-runtime-2.2.5\AndroidManifest.xml:24:5-29:19
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\Kyla\.gradle\caches\transforms-3\76409a9e347be8ca5b74819dccb788ee\transformed\jetified-glide-4.8.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\Kyla\.gradle\caches\transforms-3\76409a9e347be8ca5b74819dccb788ee\transformed\jetified-glide-4.8.0\AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.1.0] C:\Users\Kyla\.gradle\caches\transforms-3\0d1be357180595c9fada004a40a95f33\transformed\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\Kyla\.gradle\caches\transforms-3\0d1be357180595c9fada004a40a95f33\transformed\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\Kyla\.gradle\caches\transforms-3\4d40688f713052da6bb7abb8463add40\transformed\jetified-gifdecoder-4.8.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\Kyla\.gradle\caches\transforms-3\4d40688f713052da6bb7abb8463add40\transformed\jetified-gifdecoder-4.8.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Kyla\.gradle\caches\transforms-3\7a1ff5a23d45e8270cb10429ea4d29f7\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Kyla\.gradle\caches\transforms-3\7a1ff5a23d45e8270cb10429ea4d29f7\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\Kyla\.gradle\caches\transforms-3\0d1be357180595c9fada004a40a95f33\transformed\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.pomodoro.application.activity.LongBreakTime
+ADDED from C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:exported
+		ADDED from C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:17:13-37
+	android:name
+		ADDED from C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:16:13-75
+meta-data#android.app.lib_name
+ADDED from C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:18:13-20:36
+	android:value
+		ADDED from C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:20:17-33
+	android:name
+		ADDED from C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:19:17-52
+activity#com.pomodoro.application.activity.ShortBreakTime
+ADDED from C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:22:9-28:20
+	android:exported
+		ADDED from C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:24:13-37
+	android:name
+		ADDED from C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:23:13-76
+activity#com.pomodoro.application.activity.Splashscreen
+ADDED from C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:29:9-41:20
+	android:exported
+		ADDED from C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:30:13-74
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:32:13-36:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:35:27-74
+activity#com.pomodoro.application.activity.WorkTime
+ADDED from C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:42:9-79
+	android:name
+		ADDED from C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:42:19-76
+activity#com.pomodoro.application.activity.MainActivity
+ADDED from C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:43:9-45:39
+	android:exported
+		ADDED from C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:45:13-36
+	android:name
+		ADDED from C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:44:13-74
+receiver#com.pomodoro.application.broadcastReceiver.AlarmBroadcastReceiver
+ADDED from C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:47:9-53:20
+	android:enabled
+		ADDED from C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:49:13-36
+	android:name
+		ADDED from C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:48:13-93
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:50:13-52:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:51:17-79
+	android:name
+		ADDED from C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:51:25-76
+service#com.pomodoro.application.broadcastReceiver.AlarmService
+ADDED from C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:55:9-58:39
+	android:enabled
+		ADDED from C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:57:13-35
+	android:exported
+		ADDED from C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:58:13-36
+	android:name
+		ADDED from C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:56:13-83
+uses-sdk
+INJECTED from C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Kyla\.gradle\caches\transforms-3\ce3810c75c25af62618df9e3cfe877ad\transformed\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Kyla\.gradle\caches\transforms-3\ce3810c75c25af62618df9e3cfe877ad\transformed\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.zubairehman:AlarmManager:v1.2.0-alpha01] C:\Users\Kyla\.gradle\caches\transforms-3\a1d9859ff700c77a9fc82503bbb70c31\transformed\jetified-AlarmManager-v1.2.0-alpha01\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.zubairehman:AlarmManager:v1.2.0-alpha01] C:\Users\Kyla\.gradle\caches\transforms-3\a1d9859ff700c77a9fc82503bbb70c31\transformed\jetified-AlarmManager-v1.2.0-alpha01\AndroidManifest.xml:7:5-9:41
+MERGED from [com.applandeo:material-calendar-view:1.7.0] C:\Users\Kyla\.gradle\caches\transforms-3\9c5c633bfc42fbe9b798132865aabb25\transformed\jetified-material-calendar-view-1.7.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.applandeo:material-calendar-view:1.7.0] C:\Users\Kyla\.gradle\caches\transforms-3\9c5c633bfc42fbe9b798132865aabb25\transformed\jetified-material-calendar-view-1.7.0\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Kyla\.gradle\caches\transforms-3\7208d67472441715d1167eab9181d58e\transformed\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Kyla\.gradle\caches\transforms-3\7208d67472441715d1167eab9181d58e\transformed\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Kyla\.gradle\caches\transforms-3\13e16167675b0703369ad876dcfd0cfb\transformed\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Kyla\.gradle\caches\transforms-3\13e16167675b0703369ad876dcfd0cfb\transformed\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [io.github.inflationx:calligraphy3:3.1.1] C:\Users\Kyla\.gradle\caches\transforms-3\c19d1a594d69b3ad9d1c627ad2724ff0\transformed\jetified-calligraphy3-3.1.1\AndroidManifest.xml:7:5-9:41
+MERGED from [io.github.inflationx:calligraphy3:3.1.1] C:\Users\Kyla\.gradle\caches\transforms-3\c19d1a594d69b3ad9d1c627ad2724ff0\transformed\jetified-calligraphy3-3.1.1\AndroidManifest.xml:7:5-9:41
+MERGED from [io.github.inflationx:viewpump:2.0.3] C:\Users\Kyla\.gradle\caches\transforms-3\503101f86df4bf7ae0305dbd438337ca\transformed\jetified-viewpump-2.0.3\AndroidManifest.xml:5:5-7:41
+MERGED from [io.github.inflationx:viewpump:2.0.3] C:\Users\Kyla\.gradle\caches\transforms-3\503101f86df4bf7ae0305dbd438337ca\transformed\jetified-viewpump-2.0.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Kyla\.gradle\caches\transforms-3\6435d5cdecbbbfdbd508d58dd4522a8e\transformed\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Kyla\.gradle\caches\transforms-3\6435d5cdecbbbfdbd508d58dd4522a8e\transformed\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Kyla\.gradle\caches\transforms-3\44d66019629001601723e3e8e6792438\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Kyla\.gradle\caches\transforms-3\44d66019629001601723e3e8e6792438\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Kyla\.gradle\caches\transforms-3\abedd8388bdbd55803e370bace33339f\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Kyla\.gradle\caches\transforms-3\abedd8388bdbd55803e370bace33339f\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Kyla\.gradle\caches\transforms-3\b204d6486c6c201251274434766486bd\transformed\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Kyla\.gradle\caches\transforms-3\b204d6486c6c201251274434766486bd\transformed\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Kyla\.gradle\caches\transforms-3\5d6dbb7a2526cb46a310f1fa772a8328\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Kyla\.gradle\caches\transforms-3\5d6dbb7a2526cb46a310f1fa772a8328\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.palette:palette:1.0.0] C:\Users\Kyla\.gradle\caches\transforms-3\54968dbfda233a7bfa6bce95c03a8246\transformed\palette-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.palette:palette:1.0.0] C:\Users\Kyla\.gradle\caches\transforms-3\54968dbfda233a7bfa6bce95c03a8246\transformed\palette-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton:butterknife:10.2.1] C:\Users\Kyla\.gradle\caches\transforms-3\39737336bbec14f0128fb8c4a0a4f643\transformed\jetified-butterknife-10.2.1\AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton:butterknife:10.2.1] C:\Users\Kyla\.gradle\caches\transforms-3\39737336bbec14f0128fb8c4a0a4f643\transformed\jetified-butterknife-10.2.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\Kyla\.gradle\caches\transforms-3\47a31a6953c4c69198e03b31b62e2496\transformed\room-runtime-2.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\Kyla\.gradle\caches\transforms-3\47a31a6953c4c69198e03b31b62e2496\transformed\room-runtime-2.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\Kyla\.gradle\caches\transforms-3\76409a9e347be8ca5b74819dccb788ee\transformed\jetified-glide-4.8.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\Kyla\.gradle\caches\transforms-3\76409a9e347be8ca5b74819dccb788ee\transformed\jetified-glide-4.8.0\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Kyla\.gradle\caches\transforms-3\90bd08f667a71835f44c311e9a58f71a\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Kyla\.gradle\caches\transforms-3\90bd08f667a71835f44c311e9a58f71a\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Kyla\.gradle\caches\transforms-3\33d809cb016f59c870b9198a81faa47b\transformed\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Kyla\.gradle\caches\transforms-3\33d809cb016f59c870b9198a81faa47b\transformed\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Kyla\.gradle\caches\transforms-3\5eff1425e4617f572a315b3a04b185a4\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Kyla\.gradle\caches\transforms-3\5eff1425e4617f572a315b3a04b185a4\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Kyla\.gradle\caches\transforms-3\f967ef6252e4ec79b8a489b7b97a4a74\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Kyla\.gradle\caches\transforms-3\f967ef6252e4ec79b8a489b7b97a4a74\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Kyla\.gradle\caches\transforms-3\bf2a6d46c92d2b1b015ce44f75d834ab\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Kyla\.gradle\caches\transforms-3\bf2a6d46c92d2b1b015ce44f75d834ab\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Kyla\.gradle\caches\transforms-3\16d8bc9bca92d3e65507a5edaa5e582a\transformed\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Kyla\.gradle\caches\transforms-3\16d8bc9bca92d3e65507a5edaa5e582a\transformed\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton:butterknife-runtime:10.2.1] C:\Users\Kyla\.gradle\caches\transforms-3\ec2bfd3a21ac896f40c4417a64b7b7bd\transformed\jetified-butterknife-runtime-10.2.1\AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton:butterknife-runtime:10.2.1] C:\Users\Kyla\.gradle\caches\transforms-3\ec2bfd3a21ac896f40c4417a64b7b7bd\transformed\jetified-butterknife-runtime-10.2.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Kyla\.gradle\caches\transforms-3\064f6efcf72e45025c96c41bb0313fb3\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Kyla\.gradle\caches\transforms-3\064f6efcf72e45025c96c41bb0313fb3\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Kyla\.gradle\caches\transforms-3\f4e7914e58ba093567760f9d22f3626d\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Kyla\.gradle\caches\transforms-3\f4e7914e58ba093567760f9d22f3626d\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Kyla\.gradle\caches\transforms-3\4daddb1da45a5384ed7a0d662e69c63c\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Kyla\.gradle\caches\transforms-3\4daddb1da45a5384ed7a0d662e69c63c\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Kyla\.gradle\caches\transforms-3\c17573ade799759c56baf884a28f8de6\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Kyla\.gradle\caches\transforms-3\c17573ade799759c56baf884a28f8de6\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Kyla\.gradle\caches\transforms-3\3fa6512a9d4dee4adc600ab35404b8df\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Kyla\.gradle\caches\transforms-3\3fa6512a9d4dee4adc600ab35404b8df\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Kyla\.gradle\caches\transforms-3\bb581f0f45aa35f890c6008351162320\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Kyla\.gradle\caches\transforms-3\bb581f0f45aa35f890c6008351162320\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Kyla\.gradle\caches\transforms-3\62c5e7261b28a421717026579decefb0\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Kyla\.gradle\caches\transforms-3\62c5e7261b28a421717026579decefb0\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Kyla\.gradle\caches\transforms-3\788b2866ce1062b2ae316790421045ad\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Kyla\.gradle\caches\transforms-3\788b2866ce1062b2ae316790421045ad\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Kyla\.gradle\caches\transforms-3\dc51215a0ae0eec1cc8d2679f7af5fd0\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Kyla\.gradle\caches\transforms-3\dc51215a0ae0eec1cc8d2679f7af5fd0\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\Kyla\.gradle\caches\transforms-3\0d1be357180595c9fada004a40a95f33\transformed\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\Kyla\.gradle\caches\transforms-3\0d1be357180595c9fada004a40a95f33\transformed\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Kyla\.gradle\caches\transforms-3\2365384ad980976d11b4bd9d48d00571\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Kyla\.gradle\caches\transforms-3\2365384ad980976d11b4bd9d48d00571\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Kyla\.gradle\caches\transforms-3\1f624a3ec658e1a90eb17b72d8f4e5aa\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Kyla\.gradle\caches\transforms-3\1f624a3ec658e1a90eb17b72d8f4e5aa\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\Kyla\.gradle\caches\transforms-3\a48b27392aca29760d5e67754297b743\transformed\sqlite-framework-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\Kyla\.gradle\caches\transforms-3\a48b27392aca29760d5e67754297b743\transformed\sqlite-framework-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\Kyla\.gradle\caches\transforms-3\de637aa518de7c841c858a3b6078b41c\transformed\sqlite-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\Kyla\.gradle\caches\transforms-3\de637aa518de7c841c858a3b6078b41c\transformed\sqlite-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Kyla\.gradle\caches\transforms-3\eb59ad3ff2cc3f8ea455ecf10b9a5b47\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Kyla\.gradle\caches\transforms-3\eb59ad3ff2cc3f8ea455ecf10b9a5b47\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Kyla\.gradle\caches\transforms-3\b31efb9b62a939b56fecae300029b614\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Kyla\.gradle\caches\transforms-3\b31efb9b62a939b56fecae300029b614\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.1] C:\Users\Kyla\.gradle\caches\transforms-3\0a93582863937f3223533a577a0df624\transformed\core-runtime-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.1] C:\Users\Kyla\.gradle\caches\transforms-3\0a93582863937f3223533a577a0df624\transformed\core-runtime-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\Kyla\.gradle\caches\transforms-3\4d40688f713052da6bb7abb8463add40\transformed\jetified-gifdecoder-4.8.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\Kyla\.gradle\caches\transforms-3\4d40688f713052da6bb7abb8463add40\transformed\jetified-gifdecoder-4.8.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Kyla\.gradle\caches\transforms-3\7a1ff5a23d45e8270cb10429ea4d29f7\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Kyla\.gradle\caches\transforms-3\7a1ff5a23d45e8270cb10429ea4d29f7\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Kyla\.gradle\caches\transforms-3\fe726d578f90e61f945e51ad06a99ee0\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Kyla\.gradle\caches\transforms-3\fe726d578f90e61f945e51ad06a99ee0\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Kyla\.gradle\caches\transforms-3\dc95db927df936e003ea23f2b843af5c\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Kyla\.gradle\caches\transforms-3\dc95db927df936e003ea23f2b843af5c\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Kyla\.gradle\caches\transforms-3\4a128805ae54552b7183634231e39ff5\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Kyla\.gradle\caches\transforms-3\4a128805ae54552b7183634231e39ff5\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Kyla\.gradle\caches\transforms-3\ae4109ec1e873f2074e4c3a60211a759\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Kyla\.gradle\caches\transforms-3\ae4109ec1e873f2074e4c3a60211a759\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Kyla\.gradle\caches\transforms-3\7807df45417ac8527680b4e4f7eddd80\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Kyla\.gradle\caches\transforms-3\7807df45417ac8527680b4e4f7eddd80\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Kyla\.gradle\caches\transforms-3\b8168211f61aad3127929ec4ab285974\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Kyla\.gradle\caches\transforms-3\b8168211f61aad3127929ec4ab285974\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Kyla\.gradle\caches\transforms-3\cfee952266597011e350226a145c4ff0\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Kyla\.gradle\caches\transforms-3\cfee952266597011e350226a145c4ff0\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml
+receiver#com.zubair.alarmmanager.receivers.BootCompleteReceiver
+ADDED from [com.github.zubairehman:AlarmManager:v1.2.0-alpha01] C:\Users\Kyla\.gradle\caches\transforms-3\a1d9859ff700c77a9fc82503bbb70c31\transformed\jetified-AlarmManager-v1.2.0-alpha01\AndroidManifest.xml:14:9-18:20
+	android:name
+		ADDED from [com.github.zubairehman:AlarmManager:v1.2.0-alpha01] C:\Users\Kyla\.gradle\caches\transforms-3\a1d9859ff700c77a9fc82503bbb70c31\transformed\jetified-AlarmManager-v1.2.0-alpha01\AndroidManifest.xml:14:19-88
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\Kyla\.gradle\caches\transforms-3\47a31a6953c4c69198e03b31b62e2496\transformed\room-runtime-2.2.5\AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\Kyla\.gradle\caches\transforms-3\47a31a6953c4c69198e03b31b62e2496\transformed\room-runtime-2.2.5\AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\Kyla\.gradle\caches\transforms-3\47a31a6953c4c69198e03b31b62e2496\transformed\room-runtime-2.2.5\AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\Kyla\.gradle\caches\transforms-3\47a31a6953c4c69198e03b31b62e2496\transformed\room-runtime-2.2.5\AndroidManifest.xml:26:13-74

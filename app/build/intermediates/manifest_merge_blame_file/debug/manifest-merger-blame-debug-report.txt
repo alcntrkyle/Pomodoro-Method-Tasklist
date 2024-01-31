@@ -1,0 +1,142 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.application.todolistapplication"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.WAKE_LOCK" />
+11-->C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:5:5-68
+11-->C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:5:22-65
+12    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+12-->C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:6:5-81
+12-->C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:6:22-78
+13
+14    <application
+14-->C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:8:5-59:19
+15        android:allowBackup="true"
+15-->C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:9:9-35
+16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+16-->[androidx.core:core:1.1.0] C:\Users\Kyla\.gradle\caches\transforms-3\0d1be357180595c9fada004a40a95f33\transformed\core-1.1.0\AndroidManifest.xml:24:18-86
+17        android:debuggable="true"
+18        android:icon="@mipmap/ic_launcher"
+18-->C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:10:9-43
+19        android:label="@string/app_name"
+19-->C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:11:9-41
+20        android:roundIcon="@mipmap/ic_launcher_round"
+20-->C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:12:9-54
+21        android:supportsRtl="true"
+21-->C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:13:9-35
+22        android:testOnly="true"
+23        android:theme="@style/AppTheme" >
+23-->C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:14:9-40
+24        <activity
+24-->C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:15:9-21:20
+25            android:name="com.pomodoro.application.activity.LongBreakTime"
+25-->C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:16:13-75
+26            android:exported="false" >
+26-->C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:17:13-37
+27            <meta-data
+27-->C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:18:13-20:36
+28                android:name="android.app.lib_name"
+28-->C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:19:17-52
+29                android:value="" />
+29-->C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:20:17-33
+30        </activity>
+31        <activity
+31-->C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:22:9-28:20
+32            android:name="com.pomodoro.application.activity.ShortBreakTime"
+32-->C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:23:13-76
+33            android:exported="false" >
+33-->C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:24:13-37
+34            <meta-data
+34-->C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:18:13-20:36
+35                android:name="android.app.lib_name"
+35-->C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:19:17-52
+36                android:value="" />
+36-->C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:20:17-33
+37        </activity>
+38        <activity
+38-->C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:29:9-41:20
+39            android:name="com.pomodoro.application.activity.Splashscreen"
+39-->C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:30:13-74
+40            android:exported="true" >
+40-->C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:31:13-36
+41            <intent-filter>
+41-->C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:32:13-36:29
+42                <action android:name="android.intent.action.MAIN" />
+42-->C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:33:17-69
+42-->C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:33:25-66
+43
+44                <category android:name="android.intent.category.LAUNCHER" />
+44-->C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:35:17-77
+44-->C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:35:27-74
+45            </intent-filter>
+46
+47            <meta-data
+47-->C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:18:13-20:36
+48                android:name="android.app.lib_name"
+48-->C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:19:17-52
+49                android:value="" />
+49-->C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:20:17-33
+50        </activity>
+51        <activity android:name="com.pomodoro.application.activity.WorkTime" />
+51-->C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:42:9-79
+51-->C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:42:19-76
+52        <activity
+52-->C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:43:9-45:39
+53            android:name="com.pomodoro.application.activity.MainActivity"
+53-->C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:44:13-74
+54            android:exported="true" />
+54-->C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:45:13-36
+55
+56        <receiver
+56-->C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:47:9-53:20
+57            android:name="com.pomodoro.application.broadcastReceiver.AlarmBroadcastReceiver"
+57-->C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:48:13-93
+58            android:enabled="false" >
+58-->C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:49:13-36
+59            <intent-filter>
+59-->C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:50:13-52:29
+60                <action android:name="android.intent.action.BOOT_COMPLETED" />
+60-->C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:51:17-79
+60-->C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:51:25-76
+61            </intent-filter>
+62        </receiver>
+63
+64        <service
+64-->C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:55:9-58:39
+65            android:name="com.pomodoro.application.broadcastReceiver.AlarmService"
+65-->C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:56:13-83
+66            android:enabled="true"
+66-->C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:57:13-35
+67            android:exported="true" />
+67-->C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:58:13-36
+68
+69        <receiver android:name="com.zubair.alarmmanager.receivers.BootCompleteReceiver" >
+69-->[com.github.zubairehman:AlarmManager:v1.2.0-alpha01] C:\Users\Kyla\.gradle\caches\transforms-3\a1d9859ff700c77a9fc82503bbb70c31\transformed\jetified-AlarmManager-v1.2.0-alpha01\AndroidManifest.xml:14:9-18:20
+69-->[com.github.zubairehman:AlarmManager:v1.2.0-alpha01] C:\Users\Kyla\.gradle\caches\transforms-3\a1d9859ff700c77a9fc82503bbb70c31\transformed\jetified-AlarmManager-v1.2.0-alpha01\AndroidManifest.xml:14:19-88
+70            <intent-filter>
+70-->C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:50:13-52:29
+71                <action android:name="android.intent.action.BOOT_COMPLETED" />
+71-->C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:51:17-79
+71-->C:\Users\Kyla\OneDrive\Desktop\Mobile Development\pomodoro-updated\pomodoro\app\src\main\AndroidManifest.xml:51:25-76
+72            </intent-filter>
+73        </receiver>
+74
+75        <service
+75-->[androidx.room:room-runtime:2.2.5] C:\Users\Kyla\.gradle\caches\transforms-3\47a31a6953c4c69198e03b31b62e2496\transformed\room-runtime-2.2.5\AndroidManifest.xml:25:9-28:40
+76            android:name="androidx.room.MultiInstanceInvalidationService"
+76-->[androidx.room:room-runtime:2.2.5] C:\Users\Kyla\.gradle\caches\transforms-3\47a31a6953c4c69198e03b31b62e2496\transformed\room-runtime-2.2.5\AndroidManifest.xml:26:13-74
+77            android:directBootAware="true"
+77-->[androidx.room:room-runtime:2.2.5] C:\Users\Kyla\.gradle\caches\transforms-3\47a31a6953c4c69198e03b31b62e2496\transformed\room-runtime-2.2.5\AndroidManifest.xml:27:13-43
+78            android:exported="false" />
+78-->[androidx.room:room-runtime:2.2.5] C:\Users\Kyla\.gradle\caches\transforms-3\47a31a6953c4c69198e03b31b62e2496\transformed\room-runtime-2.2.5\AndroidManifest.xml:28:13-37
+79    </application>
+80
+81</manifest>

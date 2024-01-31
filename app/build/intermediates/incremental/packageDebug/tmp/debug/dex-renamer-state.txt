@@ -1,0 +1,25 @@
+#Thu Feb 01 00:17:07 PST 2024
+path.4=1/classes.dex
+path.3=14/classes.dex
+path.2=10/classes.dex
+path.1=0/classes.dex
+path.7=9/classes.dex
+path.6=6/classes.dex
+path.5=4/classes.dex
+path.0=classes.dex
+base.4=C\:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\1\\classes.dex
+base.3=C\:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\14\\classes.dex
+base.2=C\:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\10\\classes.dex
+base.1=C\:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.0=C\:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+renamed.7=classes8.dex
+renamed.6=classes7.dex
+base.7=C\:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\9\\classes.dex
+renamed.5=classes6.dex
+base.6=C\:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\6\\classes.dex
+renamed.4=classes5.dex
+base.5=C\:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\4\\classes.dex

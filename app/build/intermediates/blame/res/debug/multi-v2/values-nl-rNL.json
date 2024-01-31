@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-nl-rNL\\values-nl-rNL.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kyla\\.gradle\\caches\\transforms-3\\0c7d5fa226a9c2f5e542471cd955b2e2\\transformed\\jetified-material-calendar-view-1.7.0\\res\\values-nl-rNL\\values-nl-rNL.xml",
+                    "from": {
+                        "startLines": "2,11,25,26,27,28,29,30,31,32,33,34",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,515,918,973,1028,1100,1165,1222,1277,1334,1401,1457",
+                        "endLines": "10,24,25,26,27,28,29,30,31,32,33,34",
+                        "endColumns": "12,12,54,54,71,64,56,54,56,66,55,57",
+                        "endOffsets": "510,913,968,1023,1095,1160,1217,1272,1329,1396,1452,1510"
+                    }
+                }
+            ]
+        }
+    ]
+}

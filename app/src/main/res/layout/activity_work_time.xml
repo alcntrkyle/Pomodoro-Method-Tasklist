@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.WorkTime"
+    android:background="@color/main">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="75dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginEnd="76dp"
+        android:fontFamily="@font/poppins_semibold"
+        android:gravity="center"
+        android:text="Work Time"
+        android:textColor="@color/accent"
+        android:textSize="20dp" />
+
+    <TextView
+        android:id="@+id/text_view_countdown"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="70dp"
+        android:layout_marginTop="180dp"
+        android:layout_marginEnd="70dp"
+        android:fontFamily="@font/poppins_medium"
+        android:text="00:00"
+        android:gravity="center"
+        android:textColor="@color/accent"
+        android:textSize="60sp" />
+
+    <Button
+        android:id="@+id/button_start_pause"
+        android:layout_width="90dp"
+        android:layout_height="50dp"
+        android:fontFamily="@font/poppins_semibold"
+        android:layout_below="@id/text_view_countdown"
+        android:layout_centerHorizontal="true"
+        android:text="Start"
+        android:textAllCaps="false"
+        android:layout_marginTop="10dp"
+        android:textColor="@color/main"
+        android:backgroundTint="@color/accent"/>
+
+</RelativeLayout>

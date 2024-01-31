@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.pomodoro.application.app-mergeDebugResources-18:/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kyla\\.gradle\\caches\\transforms-3\\7208d67472441715d1167eab9181d58e\\transformed\\appcompat-1.1.0\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,125,196",
+                        "endColumns": "69,70,67",
+                        "endOffsets": "120,191,259"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Kyla\\.gradle\\caches\\transforms-3\\ce3810c75c25af62618df9e3cfe877ad\\transformed\\material-1.0.0\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "10",
+                        "endOffsets": "222"
+                    },
+                    "to": {
+                        "startLines": "5",
+                        "startColumns": "4",
+                        "startOffsets": "264",
+                        "endLines": "8",
+                        "endColumns": "10",
+                        "endOffsets": "431"
+                    }
+                }
+            ]
+        }
+    ]
+}

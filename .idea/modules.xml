@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ToDoListApplication.iml" filepath="$PROJECT_DIR$/.idea/modules/ToDoListApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ToDoListApplication.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ToDoListApplication.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ToDoListApplication.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ToDoListApplication.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ToDoListApplication.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ToDoListApplication.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ToDoListApplication.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ToDoListApplication.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>

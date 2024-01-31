@@ -1,0 +1,194 @@
+[
+    {
+        "merged": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_arrow_back_black_24dp.xml.flat",
+        "source": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\src\\main\\res\\drawable\\ic_arrow_back_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\build\\intermediates\\res\\merged\\debug\\font_poppins_bold.ttf.flat",
+        "source": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\src\\main\\res\\font\\poppins_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_border.xml.flat",
+        "source": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\src\\main\\res\\drawable\\btn_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dot.png.flat",
+        "source": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\src\\main\\res\\drawable\\dot.png"
+    },
+    {
+        "merged": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\src\\debug\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\src\\debug\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_long_break_time.xml.flat",
+        "source": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\src\\main\\res\\layout\\activity_long_break_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\build\\intermediates\\res\\merged\\debug\\drawable_checked.png.flat",
+        "source": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\src\\main\\res\\drawable\\checked.png"
+    },
+    {
+        "merged": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add_black_24dp.xml.flat",
+        "source": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\src\\main\\res\\drawable\\ic_add_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_work_time.xml.flat",
+        "source": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\src\\main\\res\\layout\\activity_work_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\build\\intermediates\\res\\merged\\debug\\font_poppins_semibold.ttf.flat",
+        "source": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\src\\main\\res\\font\\poppins_semibold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\build\\intermediates\\res\\merged\\debug\\drawable_alert.gif.flat",
+        "source": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\src\\main\\res\\drawable\\alert.gif"
+    },
+    {
+        "merged": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\src\\debug\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_calendar_view.xml.flat",
+        "source": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\src\\main\\res\\layout\\fragment_calendar_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\src\\debug\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_completed_theme.xml.flat",
+        "source": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\src\\main\\res\\layout\\dialog_completed_theme.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\src\\debug\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_create_task.xml.flat",
+        "source": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\src\\main\\res\\layout\\fragment_create_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\src\\debug\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu.xml.flat",
+        "source": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\src\\debug\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\src\\debug\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\src\\debug\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_short_break_time.xml.flat",
+        "source": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\src\\main\\res\\layout\\activity_short_break_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\src\\debug\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\src\\debug\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splashscreen.xml.flat",
+        "source": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\src\\main\\res\\layout\\activity_splashscreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\src\\debug\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\build\\intermediates\\res\\merged\\debug\\font_poppins_medium.ttf.flat",
+        "source": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\src\\main\\res\\font\\poppins_medium.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\src\\debug\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\build\\intermediates\\res\\merged\\debug\\font_poppins_regular.ttf.flat",
+        "source": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\src\\main\\res\\font\\poppins_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_calendar.png.flat",
+        "source": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\src\\main\\res\\drawable-v24\\calendar.png"
+    },
+    {
+        "merged": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\build\\intermediates\\res\\merged\\debug\\font_pacifico_regular.ttf.flat",
+        "source": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\src\\main\\res\\font\\pacifico_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\src\\debug\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_background.xml.flat",
+        "source": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\src\\main\\res\\drawable\\btn_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\src\\debug\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_button.xml.flat",
+        "source": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\src\\main\\res\\drawable\\custom_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ellipsis.png.flat",
+        "source": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\src\\main\\res\\drawable\\ellipsis.png"
+    },
+    {
+        "merged": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_sslogo.png.flat",
+        "source": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\src\\main\\res\\drawable-v24\\sslogo.png"
+    },
+    {
+        "merged": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ca.png.flat",
+        "source": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\src\\main\\res\\drawable\\ca.png"
+    },
+    {
+        "merged": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_task.xml.flat",
+        "source": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\src\\main\\res\\layout\\item_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\src\\debug\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\build\\intermediates\\res\\merged\\debug\\drawable_more.png.flat",
+        "source": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\src\\main\\res\\drawable\\more.png"
+    },
+    {
+        "merged": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\src\\debug\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\build\\intermediates\\res\\merged\\debug\\drawable_completed.gif.flat",
+        "source": "C:\\Users\\Kyla\\OneDrive\\Desktop\\Mobile Development\\pomodoro-updated\\pomodoro\\app\\src\\main\\res\\drawable\\completed.gif"
+    }
+]
