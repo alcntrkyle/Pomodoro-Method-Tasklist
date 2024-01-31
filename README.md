@@ -32,4 +32,11 @@ An Android application designed to help people who struggle with procrastination
 - Choose an emulator or a connected device to run the app.
 
 **6. Open the App:**
-- Once the app is installed and running, open it on the emulator or device. 
+- Once the app is installed and running, open it on the emulator or device.
+
+## Authors
+
+- Alcantara, Kyla Marie D. 
+- Cruz, Sharmine M. 
+- Gatchalian, Aaronn Daphne M. 
+- Hernandez, Trisha Mae SG. 
