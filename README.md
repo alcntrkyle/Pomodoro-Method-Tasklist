@@ -1,6 +1,6 @@
-![Pomodoro](https://example.com/project-header-image.jpg)
+![Pomodoro](https://www.flickr.com/photos/200006875@N04/53503357486/in/dateposted-public/)
 
-# Pomodoro-Method-Tasklist
+# Pomodoro Method Tasklist
 An Android application designed to help people who struggle with procrastination, and want to improve their productivity and time management.
 
 ## Tech Stack
@@ -36,7 +36,7 @@ An Android application designed to help people who struggle with procrastination
 
 ## Authors
 
-- Alcantara, Kyla Marie D. 
-- Cruz, Sharmine M. 
-- Gatchalian, Aaronn Daphne M. 
-- Hernandez, Trisha Mae SG. 
+- **[Alcantara, Kyla Marie D.]([https://www.java.com/en/](https://github.com/alcntrkyle))**
+- **[Cruz, Sharmine M.](https://github.com/SharmCruz)**
+- **[Gatchalian, Aaronn Daphne M. ]([https://www.java.com/en/](https://github.com/d4phne))**
+- **[Hernandez, Trisha Mae SG.]([https://www.java.com/en/](https://github.com/seapiphany)https://github.com/seapiphany)**
