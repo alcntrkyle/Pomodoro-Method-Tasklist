@@ -39,4 +39,4 @@ An Android application designed to help people who struggle with procrastination
 - **[Alcantara, Kyla Marie D.](https://github.com/alcntrkyle)**
 - **[Cruz, Sharmine M.](https://github.com/SharmCruz)**
 - **[Gatchalian, Aaronn Daphne M.](https://github.com/d4phne)**
-- **[Hernandez, Trisha Mae SG.]([https://github.com/seapiphany)**
+- **[Hernandez, Trisha Mae SG.](https://github.com/seapiphany)**
