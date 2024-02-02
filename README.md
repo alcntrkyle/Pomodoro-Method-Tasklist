@@ -1,4 +1,4 @@
-![Pomodoro](https://www.flickr.com/photos/200006875@N04/53503357486/in/dateposted-public/)
+![Pomodoro](Header.jpg)
 
 # Pomodoro Method Tasklist
 An Android application designed to help people who struggle with procrastination, and want to improve their productivity and time management.
